@@ -1,0 +1,31 @@
+body {
+  padding-bottom: 0;
+}
+
+.middle-container {
+  padding: 0 15%;
+  padding-top: 0;
+  text-align: left;
+}
+.subtitle {
+  text-align: center;
+  font-size: 2rem;
+  padding-bottom: 0.5rem;
+}
+.section-div {
+  padding-bottom: 0.5rem;
+}
+.section-title {
+  padding-top: 0;
+  padding-bottom: 0rem;
+  text-transform:none;
+  font-size: 1.5rem;
+  letter-spacing: normal;
+  /* font-weight: 600; */
+}
+.section-text {
+ font-weight: 400;
+ font-size: 1.1rem;
+ line-height: 1.3rem;
+ margin: 1rem;
+}
